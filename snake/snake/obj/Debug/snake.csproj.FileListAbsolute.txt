@@ -1,0 +1,10 @@
+C:\Users\gustavo_tirado\source\repos\snake\snake\bin\Debug\snake.exe.config
+C:\Users\gustavo_tirado\source\repos\snake\snake\bin\Debug\snake.exe
+C:\Users\gustavo_tirado\source\repos\snake\snake\bin\Debug\snake.pdb
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.Form1.resources
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.csproj.GenerateResource.cache
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.exe
+C:\Users\gustavo_tirado\source\repos\snake\snake\obj\Debug\snake.pdb
